@@ -1,0 +1,565 @@
+{
+    "ContainerEntity": {
+        "Id": "ContainerEntity",
+        "Name": "corner-fence",
+        "Components": {
+            "Component_[11962580920416191857]": {
+                "$type": "EditorPrefabComponent",
+                "Id": 11962580920416191857
+            },
+            "Component_[12685077758810479849]": {
+                "$type": "EditorPendingCompositionComponent",
+                "Id": 12685077758810479849
+            },
+            "Component_[13433936305652489458]": {
+                "$type": "EditorEntitySortComponent",
+                "Id": 13433936305652489458
+            },
+            "Component_[14194344568393169242]": {
+                "$type": "EditorEntityIconComponent",
+                "Id": 14194344568393169242
+            },
+            "Component_[16834068041204718574]": {
+                "$type": "EditorLockComponent",
+                "Id": 16834068041204718574
+            },
+            "Component_[3101255934984031075]": {
+                "$type": "SelectionComponent",
+                "Id": 3101255934984031075
+            },
+            "Component_[3648074311406470140]": {
+                "$type": "EditorVisibilityComponent",
+                "Id": 3648074311406470140
+            },
+            "Component_[4013988170217373381]": {
+                "$type": "EditorInspectorComponent",
+                "Id": 4013988170217373381
+            },
+            "Component_[6905945365135959569]": {
+                "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
+                "Id": 6905945365135959569,
+                "Parent Entity": ""
+            },
+            "Component_[7008411706662991890]": {
+                "$type": "EditorDisabledCompositionComponent",
+                "Id": 7008411706662991890
+            },
+            "Component_[9210325461161566143]": {
+                "$type": "EditorOnlyEntityComponent",
+                "Id": 9210325461161566143
+            }
+        }
+    },
+    "Entities": {
+        "Entity_[847608117444]": {
+            "Id": "Entity_[847608117444]",
+            "Name": "fence",
+            "Components": {
+                "Component_[10457327367278891510]": {
+                    "$type": "EditorDisabledCompositionComponent",
+                    "Id": 10457327367278891510
+                },
+                "Component_[10586826478696221321]": {
+                    "$type": "AZ::Render::EditorMeshComponent",
+                    "Id": 10586826478696221321,
+                    "Controller": {
+                        "Configuration": {
+                            "ModelAsset": {
+                                "assetId": {
+                                    "guid": "{932D78D6-0C9D-5A66-946D-F2C5F70AF354}",
+                                    "subId": 283720024
+                                },
+                                "assetHint": "joshuas-assets/gamejam2021/fence.azmodel"
+                            },
+                            "LodOverride": 255
+                        }
+                    }
+                },
+                "Component_[13049172370604853137]": {
+                    "$type": "EditorVisibilityComponent",
+                    "Id": 13049172370604853137
+                },
+                "Component_[14526511546943146944]": {
+                    "$type": "EditorPendingCompositionComponent",
+                    "Id": 14526511546943146944
+                },
+                "Component_[16306690071425977045]": {
+                    "$type": "EditorEntityIconComponent",
+                    "Id": 16306690071425977045
+                },
+                "Component_[1945093823470637001]": {
+                    "$type": "EditorInspectorComponent",
+                    "Id": 1945093823470637001,
+                    "ComponentOrderEntryArray": [
+                        {
+                            "ComponentId": 2969785591587041712
+                        },
+                        {
+                            "ComponentId": 10586826478696221321,
+                            "SortIndex": 1
+                        }
+                    ]
+                },
+                "Component_[2969785591587041712]": {
+                    "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
+                    "Id": 2969785591587041712,
+                    "Parent Entity": "ContainerEntity",
+                    "Transform Data": {
+                        "Translate": [
+                            0.25859737396240234,
+                            0.8460456132888794,
+                            0.22409844398498535
+                        ],
+                        "Rotate": [
+                            11.189616203308105,
+                            -0.17236053943634033,
+                            -1.5335488319396973
+                        ],
+                        "UniformScale": 1.5
+                    }
+                },
+                "Component_[4231852200983833113]": {
+                    "$type": "SelectionComponent",
+                    "Id": 4231852200983833113
+                },
+                "Component_[461183629654886443]": {
+                    "$type": "EditorLockComponent",
+                    "Id": 461183629654886443
+                },
+                "Component_[7729129882347778302]": {
+                    "$type": "EditorOnlyEntityComponent",
+                    "Id": 7729129882347778302
+                },
+                "Component_[839393748470825267]": {
+                    "$type": "EditorEntitySortComponent",
+                    "Id": 839393748470825267
+                }
+            }
+        },
+        "Entity_[851903084740]": {
+            "Id": "Entity_[851903084740]",
+            "Name": "fence",
+            "Components": {
+                "Component_[10457327367278891510]": {
+                    "$type": "EditorDisabledCompositionComponent",
+                    "Id": 10457327367278891510
+                },
+                "Component_[10586826478696221321]": {
+                    "$type": "AZ::Render::EditorMeshComponent",
+                    "Id": 10586826478696221321,
+                    "Controller": {
+                        "Configuration": {
+                            "ModelAsset": {
+                                "assetId": {
+                                    "guid": "{932D78D6-0C9D-5A66-946D-F2C5F70AF354}",
+                                    "subId": 283720024
+                                },
+                                "assetHint": "joshuas-assets/gamejam2021/fence.azmodel"
+                            },
+                            "LodOverride": 255
+                        }
+                    }
+                },
+                "Component_[13049172370604853137]": {
+                    "$type": "EditorVisibilityComponent",
+                    "Id": 13049172370604853137
+                },
+                "Component_[14526511546943146944]": {
+                    "$type": "EditorPendingCompositionComponent",
+                    "Id": 14526511546943146944
+                },
+                "Component_[16306690071425977045]": {
+                    "$type": "EditorEntityIconComponent",
+                    "Id": 16306690071425977045
+                },
+                "Component_[1945093823470637001]": {
+                    "$type": "EditorInspectorComponent",
+                    "Id": 1945093823470637001,
+                    "ComponentOrderEntryArray": [
+                        {
+                            "ComponentId": 2969785591587041712
+                        },
+                        {
+                            "ComponentId": 10586826478696221321,
+                            "SortIndex": 1
+                        }
+                    ]
+                },
+                "Component_[2969785591587041712]": {
+                    "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
+                    "Id": 2969785591587041712,
+                    "Parent Entity": "ContainerEntity",
+                    "Transform Data": {
+                        "Translate": [
+                            0.22913742065429688,
+                            0.1566697061061859,
+                            0.16417276859283447
+                        ],
+                        "Rotate": [
+                            13.12126350402832,
+                            -0.1723564863204956,
+                            -1.5335509777069092
+                        ],
+                        "UniformScale": 1.5
+                    }
+                },
+                "Component_[4231852200983833113]": {
+                    "$type": "SelectionComponent",
+                    "Id": 4231852200983833113
+                },
+                "Component_[461183629654886443]": {
+                    "$type": "EditorLockComponent",
+                    "Id": 461183629654886443
+                },
+                "Component_[7729129882347778302]": {
+                    "$type": "EditorOnlyEntityComponent",
+                    "Id": 7729129882347778302
+                },
+                "Component_[839393748470825267]": {
+                    "$type": "EditorEntitySortComponent",
+                    "Id": 839393748470825267
+                }
+            }
+        },
+        "Entity_[856198052036]": {
+            "Id": "Entity_[856198052036]",
+            "Name": "fence",
+            "Components": {
+                "Component_[10457327367278891510]": {
+                    "$type": "EditorDisabledCompositionComponent",
+                    "Id": 10457327367278891510
+                },
+                "Component_[10586826478696221321]": {
+                    "$type": "AZ::Render::EditorMeshComponent",
+                    "Id": 10586826478696221321,
+                    "Controller": {
+                        "Configuration": {
+                            "ModelAsset": {
+                                "assetId": {
+                                    "guid": "{932D78D6-0C9D-5A66-946D-F2C5F70AF354}",
+                                    "subId": 283720024
+                                },
+                                "assetHint": "joshuas-assets/gamejam2021/fence.azmodel"
+                            },
+                            "LodOverride": 255
+                        }
+                    }
+                },
+                "Component_[13049172370604853137]": {
+                    "$type": "EditorVisibilityComponent",
+                    "Id": 13049172370604853137
+                },
+                "Component_[14526511546943146944]": {
+                    "$type": "EditorPendingCompositionComponent",
+                    "Id": 14526511546943146944
+                },
+                "Component_[16306690071425977045]": {
+                    "$type": "EditorEntityIconComponent",
+                    "Id": 16306690071425977045
+                },
+                "Component_[1945093823470637001]": {
+                    "$type": "EditorInspectorComponent",
+                    "Id": 1945093823470637001,
+                    "ComponentOrderEntryArray": [
+                        {
+                            "ComponentId": 2969785591587041712
+                        },
+                        {
+                            "ComponentId": 10586826478696221321,
+                            "SortIndex": 1
+                        }
+                    ]
+                },
+                "Component_[2969785591587041712]": {
+                    "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
+                    "Id": 2969785591587041712,
+                    "Parent Entity": "ContainerEntity",
+                    "Transform Data": {
+                        "Translate": [
+                            0.29015254974365234,
+                            1.5102230310440063,
+                            0.2644767761230469
+                        ],
+                        "Rotate": [
+                            14.724666595458984,
+                            -0.17235949635505676,
+                            -1.533543348312378
+                        ],
+                        "UniformScale": 1.5
+                    }
+                },
+                "Component_[4231852200983833113]": {
+                    "$type": "SelectionComponent",
+                    "Id": 4231852200983833113
+                },
+                "Component_[461183629654886443]": {
+                    "$type": "EditorLockComponent",
+                    "Id": 461183629654886443
+                },
+                "Component_[7729129882347778302]": {
+                    "$type": "EditorOnlyEntityComponent",
+                    "Id": 7729129882347778302
+                },
+                "Component_[839393748470825267]": {
+                    "$type": "EditorEntitySortComponent",
+                    "Id": 839393748470825267
+                }
+            }
+        },
+        "Entity_[860493019332]": {
+            "Id": "Entity_[860493019332]",
+            "Name": "fence",
+            "Components": {
+                "Component_[10457327367278891510]": {
+                    "$type": "EditorDisabledCompositionComponent",
+                    "Id": 10457327367278891510
+                },
+                "Component_[10586826478696221321]": {
+                    "$type": "AZ::Render::EditorMeshComponent",
+                    "Id": 10586826478696221321,
+                    "Controller": {
+                        "Configuration": {
+                            "ModelAsset": {
+                                "assetId": {
+                                    "guid": "{932D78D6-0C9D-5A66-946D-F2C5F70AF354}",
+                                    "subId": 283720024
+                                },
+                                "assetHint": "joshuas-assets/gamejam2021/fence.azmodel"
+                            },
+                            "LodOverride": 255
+                        }
+                    }
+                },
+                "Component_[13049172370604853137]": {
+                    "$type": "EditorVisibilityComponent",
+                    "Id": 13049172370604853137
+                },
+                "Component_[14526511546943146944]": {
+                    "$type": "EditorPendingCompositionComponent",
+                    "Id": 14526511546943146944
+                },
+                "Component_[16306690071425977045]": {
+                    "$type": "EditorEntityIconComponent",
+                    "Id": 16306690071425977045
+                },
+                "Component_[1945093823470637001]": {
+                    "$type": "EditorInspectorComponent",
+                    "Id": 1945093823470637001,
+                    "ComponentOrderEntryArray": [
+                        {
+                            "ComponentId": 2969785591587041712
+                        },
+                        {
+                            "ComponentId": 10586826478696221321,
+                            "SortIndex": 1
+                        }
+                    ]
+                },
+                "Component_[2969785591587041712]": {
+                    "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
+                    "Id": 2969785591587041712,
+                    "Parent Entity": "ContainerEntity",
+                    "Transform Data": {
+                        "Translate": [
+                            0.17171001434326172,
+                            -0.5083779096603394,
+                            0.05966019630432129
+                        ],
+                        "Rotate": [
+                            9.586197853088379,
+                            -0.1723615825176239,
+                            -1.5335386991500854
+                        ],
+                        "UniformScale": 1.5
+                    }
+                },
+                "Component_[4231852200983833113]": {
+                    "$type": "SelectionComponent",
+                    "Id": 4231852200983833113
+                },
+                "Component_[461183629654886443]": {
+                    "$type": "EditorLockComponent",
+                    "Id": 461183629654886443
+                },
+                "Component_[7729129882347778302]": {
+                    "$type": "EditorOnlyEntityComponent",
+                    "Id": 7729129882347778302
+                },
+                "Component_[839393748470825267]": {
+                    "$type": "EditorEntitySortComponent",
+                    "Id": 839393748470825267
+                }
+            }
+        },
+        "Entity_[864787986628]": {
+            "Id": "Entity_[864787986628]",
+            "Name": "fence",
+            "Components": {
+                "Component_[10457327367278891510]": {
+                    "$type": "EditorDisabledCompositionComponent",
+                    "Id": 10457327367278891510
+                },
+                "Component_[10586826478696221321]": {
+                    "$type": "AZ::Render::EditorMeshComponent",
+                    "Id": 10586826478696221321,
+                    "Controller": {
+                        "Configuration": {
+                            "ModelAsset": {
+                                "assetId": {
+                                    "guid": "{932D78D6-0C9D-5A66-946D-F2C5F70AF354}",
+                                    "subId": 283720024
+                                },
+                                "assetHint": "joshuas-assets/gamejam2021/fence.azmodel"
+                            },
+                            "LodOverride": 255
+                        }
+                    }
+                },
+                "Component_[13049172370604853137]": {
+                    "$type": "EditorVisibilityComponent",
+                    "Id": 13049172370604853137
+                },
+                "Component_[14526511546943146944]": {
+                    "$type": "EditorPendingCompositionComponent",
+                    "Id": 14526511546943146944
+                },
+                "Component_[16306690071425977045]": {
+                    "$type": "EditorEntityIconComponent",
+                    "Id": 16306690071425977045
+                },
+                "Component_[1945093823470637001]": {
+                    "$type": "EditorInspectorComponent",
+                    "Id": 1945093823470637001,
+                    "ComponentOrderEntryArray": [
+                        {
+                            "ComponentId": 2969785591587041712
+                        },
+                        {
+                            "ComponentId": 10586826478696221321,
+                            "SortIndex": 1
+                        }
+                    ]
+                },
+                "Component_[2969785591587041712]": {
+                    "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
+                    "Id": 2969785591587041712,
+                    "Parent Entity": "ContainerEntity",
+                    "Transform Data": {
+                        "Translate": [
+                            -0.0918588638305664,
+                            -1.0013760328292847,
+                            0.01862025260925293
+                        ],
+                        "Rotate": [
+                            1.0086277723312378,
+                            -13.084245681762695,
+                            -86.34723663330078
+                        ],
+                        "UniformScale": 1.5
+                    }
+                },
+                "Component_[4231852200983833113]": {
+                    "$type": "SelectionComponent",
+                    "Id": 4231852200983833113
+                },
+                "Component_[461183629654886443]": {
+                    "$type": "EditorLockComponent",
+                    "Id": 461183629654886443
+                },
+                "Component_[7729129882347778302]": {
+                    "$type": "EditorOnlyEntityComponent",
+                    "Id": 7729129882347778302
+                },
+                "Component_[839393748470825267]": {
+                    "$type": "EditorEntitySortComponent",
+                    "Id": 839393748470825267
+                }
+            }
+        },
+        "Entity_[869082953924]": {
+            "Id": "Entity_[869082953924]",
+            "Name": "fence",
+            "Components": {
+                "Component_[10457327367278891510]": {
+                    "$type": "EditorDisabledCompositionComponent",
+                    "Id": 10457327367278891510
+                },
+                "Component_[10586826478696221321]": {
+                    "$type": "AZ::Render::EditorMeshComponent",
+                    "Id": 10586826478696221321,
+                    "Controller": {
+                        "Configuration": {
+                            "ModelAsset": {
+                                "assetId": {
+                                    "guid": "{932D78D6-0C9D-5A66-946D-F2C5F70AF354}",
+                                    "subId": 283720024
+                                },
+                                "assetHint": "joshuas-assets/gamejam2021/fence.azmodel"
+                            },
+                            "LodOverride": 255
+                        }
+                    }
+                },
+                "Component_[13049172370604853137]": {
+                    "$type": "EditorVisibilityComponent",
+                    "Id": 13049172370604853137
+                },
+                "Component_[14526511546943146944]": {
+                    "$type": "EditorPendingCompositionComponent",
+                    "Id": 14526511546943146944
+                },
+                "Component_[16306690071425977045]": {
+                    "$type": "EditorEntityIconComponent",
+                    "Id": 16306690071425977045
+                },
+                "Component_[1945093823470637001]": {
+                    "$type": "EditorInspectorComponent",
+                    "Id": 1945093823470637001,
+                    "ComponentOrderEntryArray": [
+                        {
+                            "ComponentId": 2969785591587041712
+                        },
+                        {
+                            "ComponentId": 10586826478696221321,
+                            "SortIndex": 1
+                        }
+                    ]
+                },
+                "Component_[2969785591587041712]": {
+                    "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
+                    "Id": 2969785591587041712,
+                    "Parent Entity": "ContainerEntity",
+                    "Transform Data": {
+                        "Translate": [
+                            -0.8577423095703125,
+                            -1.003184199333191,
+                            0.0
+                        ],
+                        "Rotate": [
+                            0.6844497323036194,
+                            -9.563506126403809,
+                            -86.40030670166016
+                        ],
+                        "UniformScale": 1.5
+                    }
+                },
+                "Component_[4231852200983833113]": {
+                    "$type": "SelectionComponent",
+                    "Id": 4231852200983833113
+                },
+                "Component_[461183629654886443]": {
+                    "$type": "EditorLockComponent",
+                    "Id": 461183629654886443
+                },
+                "Component_[7729129882347778302]": {
+                    "$type": "EditorOnlyEntityComponent",
+                    "Id": 7729129882347778302
+                },
+                "Component_[839393748470825267]": {
+                    "$type": "EditorEntitySortComponent",
+                    "Id": 839393748470825267
+                }
+            }
+        }
+    }
+}

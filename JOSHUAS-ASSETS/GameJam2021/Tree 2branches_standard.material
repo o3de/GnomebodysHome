@@ -1,0 +1,29 @@
+{
+    "description": "",
+    "materialType": "Materials/Types/StandardPBR.materialtype",
+    "parentMaterial": "",
+    "propertyLayoutVersion": 3,
+    "properties": {
+        "baseColor": {
+            "color": [
+                0.46488136053085329,
+                0.6679789423942566,
+                0.2727397680282593,
+                1.0
+            ],
+            "textureBlendMode": "LinearLight",
+            "textureMap": "JOSHUAS-ASSETS/GameJam2021/textures/treetops_spring_final.png"
+        },
+        "emissive": {
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ]
+        },
+        "opacity": {
+            "factor": 1.0
+        }
+    }
+}

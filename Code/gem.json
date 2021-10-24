@@ -1,0 +1,16 @@
+{
+    "gem_name": "GameJam2021",
+    "display_name": "GameJam2021",
+    "license": "What license GameJam2021 uses goes here: i.e. https://opensource.org/licenses/MIT",
+    "origin": "The primary repo for GameJam2021 goes here: i.e. http://www.mydomain.com",
+    "type": "Code",
+    "summary": "A short description of GameJam2021.",
+    "canonical_tags": [
+        "Gem"
+    ],
+    "user_tags": [
+        "GameJam2021"
+    ],
+    "icon_path": "preview.png",
+    "requirements": ""
+}

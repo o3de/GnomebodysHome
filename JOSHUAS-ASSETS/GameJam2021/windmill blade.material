@@ -1,0 +1,31 @@
+{
+    "description": "",
+    "materialType": "Materials/Types/StandardPBR.materialtype",
+    "parentMaterial": "",
+    "propertyLayoutVersion": 3,
+    "properties": {
+        "baseColor": {
+            "color": [
+                0.21460139751434327,
+                0.33402019739151,
+                0.7832167744636536,
+                1.0
+            ],
+            "factor": 0.5400000214576721,
+            "textureBlendMode": "LinearLight",
+            "textureMap": "JOSHUAS-ASSETS/GameJam2021/textures/windmill_propeller.png"
+        },
+        "emissive": {
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ]
+        },
+        "opacity": {
+            "factor": 1.0,
+            "mode": "Blended"
+        }
+    }
+}

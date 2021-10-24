@@ -1,0 +1,6 @@
+<download name="JoshsGameJam" type="Map">
+ <index src="filelist.xml" dest="filelist.xml"/>
+ <files>
+  <file src="level.pak" dest="level.pak" size="543" md5="4559c4586a53725fdf5c6345a2727ae6"/>
+ </files>
+</download>

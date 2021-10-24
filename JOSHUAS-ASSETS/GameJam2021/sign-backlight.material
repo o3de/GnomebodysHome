@@ -1,0 +1,45 @@
+{
+    "description": "",
+    "materialType": "Materials/Types/StandardPBR.materialtype",
+    "parentMaterial": "",
+    "propertyLayoutVersion": 3,
+    "properties": {
+        "baseColor": {
+            "color": [
+                0.11406119167804718,
+                0.010467689484357834,
+                0.6679789423942566,
+                1.0
+            ]
+        },
+        "clearCoat": {
+            "enable": true
+        },
+        "emissive": {
+            "color": [
+                0.0037689784076064827,
+                0.0,
+                0.29372090101242068,
+                1.0
+            ],
+            "enable": true,
+            "intensity": 5.659999847412109
+        },
+        "irradiance": {
+            "color": [
+                0.3992217779159546,
+                0.44835585355758669,
+                0.8521705865859985,
+                1.0
+            ]
+        },
+        "opacity": {
+            "doubleSided": true,
+            "factor": 1.0,
+            "mode": "Blended"
+        },
+        "specularF0": {
+            "factor": 1.0
+        }
+    }
+}

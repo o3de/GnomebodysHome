@@ -1,0 +1,36 @@
+{
+    "description": "",
+    "materialType": "Materials/Types/StandardPBR.materialtype",
+    "parentMaterial": "",
+    "propertyLayoutVersion": 3,
+    "properties": {
+        "baseColor": {
+            "color": [
+                0.6487678289413452,
+                0.3166399598121643,
+                1.0,
+                1.0
+            ]
+        },
+        "clearCoat": {
+            "enable": true
+        },
+        "emissive": {
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "intensity": 5.659999847412109
+        },
+        "general": {
+            "applySpecularAA": true
+        },
+        "opacity": {
+            "doubleSided": true,
+            "factor": 1.0,
+            "mode": "TintedTransparent"
+        }
+    }
+}

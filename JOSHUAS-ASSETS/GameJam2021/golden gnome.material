@@ -1,0 +1,33 @@
+{
+    "description": "",
+    "materialType": "Materials/Types/StandardPBR.materialtype",
+    "parentMaterial": "",
+    "propertyLayoutVersion": 3,
+    "properties": {
+        "baseColor": {
+            "color": [
+                0.800000011920929,
+                0.800000011920929,
+                0.800000011920929,
+                1.0
+            ],
+            "textureBlendMode": "Lerp",
+            "textureMap": "JOSHUAS-ASSETS/GameJam2021/textures/golden gnome.png"
+        },
+        "clearCoat": {
+            "enable": true
+        },
+        "emissive": {
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "enable": true
+        },
+        "opacity": {
+            "factor": 1.0
+        }
+    }
+}

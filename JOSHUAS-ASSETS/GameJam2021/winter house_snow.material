@@ -1,0 +1,34 @@
+{
+    "description": "",
+    "materialType": "Materials/Types/StandardPBR.materialtype",
+    "parentMaterial": "",
+    "propertyLayoutVersion": 3,
+    "properties": {
+        "baseColor": {
+            "textureBlendMode": "Lerp",
+            "textureMap": "JOSHUAS-ASSETS/GameJam2021/textures/SnowHouse_final.png"
+        },
+        "clearCoat": {
+            "enable": true
+        },
+        "emissive": {
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ]
+        },
+        "metallic": {
+            "factor": 0.1599999964237213
+        },
+        "opacity": {
+            "doubleSided": true,
+            "factor": 1.0,
+            "mode": "Cutout"
+        },
+        "specularF0": {
+            "factor": 1.0
+        }
+    }
+}

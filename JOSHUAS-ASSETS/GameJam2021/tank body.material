@@ -1,0 +1,29 @@
+{
+    "description": "",
+    "materialType": "Materials/Types/StandardPBR.materialtype",
+    "parentMaterial": "",
+    "propertyLayoutVersion": 3,
+    "properties": {
+        "baseColor": {
+            "color": [
+                0.28999999165534975,
+                0.4000000059604645,
+                0.2924712896347046,
+                1.0
+            ],
+            "textureBlendMode": "Overlay",
+            "textureMap": "JOSHUAS-ASSETS/GameJam2021/textures/tank body.png"
+        },
+        "emissive": {
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ]
+        },
+        "opacity": {
+            "factor": 1.0
+        }
+    }
+}

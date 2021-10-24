@@ -1,0 +1,50 @@
+{
+    "description": "",
+    "materialType": "Materials/Types/StandardPBR.materialtype",
+    "parentMaterial": "",
+    "propertyLayoutVersion": 3,
+    "properties": {
+        "baseColor": {
+            "color": [
+                0.8950789570808411,
+                0.06636148691177368,
+                0.06636148691177368,
+                1.0
+            ],
+            "textureBlendMode": "LinearLight",
+            "textureMap": "JOSHUAS-ASSETS/GameJam2021/textures/fire.png"
+        },
+        "clearCoat": {
+            "normalStrength": 0.0
+        },
+        "emissive": {
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "intensity": 2.799999952316284
+        },
+        "irradiance": {
+            "color": [
+                0.880643904209137,
+                0.40454718470573428,
+                0.0640878900885582,
+                1.0
+            ],
+            "factor": 0.0
+        },
+        "opacity": {
+            "alphaAffectsSpecular": 0.5099999904632568,
+            "factor": 0.44999998807907107,
+            "mode": "TintedTransparent"
+        },
+        "roughness": {
+            "factor": 0.25999999046325686
+        },
+        "specularF0": {
+            "factor": 0.0
+        }
+    }
+}

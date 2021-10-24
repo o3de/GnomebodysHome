@@ -1,0 +1,35 @@
+{
+    "description": "",
+    "materialType": "Materials/Types/StandardPBR.materialtype",
+    "parentMaterial": "",
+    "propertyLayoutVersion": 3,
+    "properties": {
+        "baseColor": {
+            "color": [
+                0.21460139751434327,
+                0.33402019739151,
+                0.7832167744636536,
+                1.0
+            ],
+            "factor": 0.9100000262260437,
+            "textureBlendMode": "LinearLight",
+            "textureMap": "JOSHUAS-ASSETS/GameJam2021/textures/cloud.png"
+        },
+        "emissive": {
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "enable": true
+        },
+        "opacity": {
+            "factor": 1.0,
+            "mode": "TintedTransparent"
+        },
+        "specularF0": {
+            "factor": 0.7099999785423279
+        }
+    }
+}

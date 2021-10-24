@@ -1,0 +1,25 @@
+{
+    "description": "",
+    "materialType": "Materials/Types/StandardPBR.materialtype",
+    "parentMaterial": "",
+    "propertyLayoutVersion": 3,
+    "properties": {
+        "baseColor": {
+            "textureMap": "JOSHUAS-ASSETS/GameJam2021/textures/spiderweb_final.png"
+        },
+        "emissive": {
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ]
+        },
+        "opacity": {
+            "alphaAffectsSpecular": 1.0,
+            "doubleSided": true,
+            "factor": 1.0,
+            "mode": "TintedTransparent"
+        }
+    }
+}

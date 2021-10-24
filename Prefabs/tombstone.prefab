@@ -1,0 +1,608 @@
+{
+    "ContainerEntity": {
+        "Id": "ContainerEntity",
+        "Name": "tombstone",
+        "Components": {
+            "Component_[12079807623799795540]": {
+                "$type": "EditorDisabledCompositionComponent",
+                "Id": 12079807623799795540
+            },
+            "Component_[127108547497070898]": {
+                "$type": "EditorPendingCompositionComponent",
+                "Id": 127108547497070898
+            },
+            "Component_[14260537684826978172]": {
+                "$type": "EditorVisibilityComponent",
+                "Id": 14260537684826978172
+            },
+            "Component_[1505931995398598070]": {
+                "$type": "EditorEntitySortComponent",
+                "Id": 1505931995398598070
+            },
+            "Component_[18051171781815275674]": {
+                "$type": "SelectionComponent",
+                "Id": 18051171781815275674
+            },
+            "Component_[2300553959661505172]": {
+                "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
+                "Id": 2300553959661505172,
+                "Parent Entity": ""
+            },
+            "Component_[3440146793273958823]": {
+                "$type": "EditorOnlyEntityComponent",
+                "Id": 3440146793273958823
+            },
+            "Component_[4181438286549902387]": {
+                "$type": "EditorPrefabComponent",
+                "Id": 4181438286549902387
+            },
+            "Component_[5559391343297497858]": {
+                "$type": "EditorLockComponent",
+                "Id": 5559391343297497858
+            },
+            "Component_[6737763591955010825]": {
+                "$type": "EditorEntityIconComponent",
+                "Id": 6737763591955010825
+            },
+            "Component_[793468476353181]": {
+                "$type": "EditorInspectorComponent",
+                "Id": 793468476353181
+            }
+        }
+    },
+    "Entities": {
+        "Entity_[1423133735108]": {
+            "Id": "Entity_[1423133735108]",
+            "Name": "tombstone",
+            "Components": {
+                "Component_[11439766118124213058]": {
+                    "$type": "EditorPendingCompositionComponent",
+                    "Id": 11439766118124213058
+                },
+                "Component_[11496240410140401081]": {
+                    "$type": "EditorInspectorComponent",
+                    "Id": 11496240410140401081,
+                    "ComponentOrderEntryArray": [
+                        {
+                            "ComponentId": 5520072886367367233
+                        },
+                        {
+                            "ComponentId": 79304917136191754,
+                            "SortIndex": 1
+                        }
+                    ]
+                },
+                "Component_[11537572143063657162]": {
+                    "$type": "EditorEntityIconComponent",
+                    "Id": 11537572143063657162
+                },
+                "Component_[13106944269288224823]": {
+                    "$type": "EditorLockComponent",
+                    "Id": 13106944269288224823
+                },
+                "Component_[14451224097875111655]": {
+                    "$type": "EditorVisibilityComponent",
+                    "Id": 14451224097875111655
+                },
+                "Component_[14668592554343609448]": {
+                    "$type": "EditorDisabledCompositionComponent",
+                    "Id": 14668592554343609448
+                },
+                "Component_[1855604147108003701]": {
+                    "$type": "EditorEntitySortComponent",
+                    "Id": 1855604147108003701
+                },
+                "Component_[4095478752396704516]": {
+                    "$type": "EditorOnlyEntityComponent",
+                    "Id": 4095478752396704516
+                },
+                "Component_[4667332831949973313]": {
+                    "$type": "EditorMaterialComponent",
+                    "Id": 4667332831949973313,
+                    "Controller": {
+                        "Configuration": {
+                            "materials": {
+                                "{}": {
+                                    "MaterialAsset": {
+                                        "assetId": {
+                                            "guid": "{756C5768-71F4-5E9E-B5F8-AB6FA3F9A627}"
+                                        },
+                                        "assetHint": "joshuas-assets/gamejam2021/tombstone.azmaterial"
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "defaultMaterialSlot": {
+                        "materialAsset": {
+                            "assetId": {
+                                "guid": "{756C5768-71F4-5E9E-B5F8-AB6FA3F9A627}"
+                            },
+                            "assetHint": "joshuas-assets/gamejam2021/tombstone.azmaterial"
+                        }
+                    },
+                    "materialSlots": [
+                        {
+                            "id": {
+                                "materialSlotStableId": 3100309799
+                            }
+                        },
+                        {
+                            "id": {
+                                "materialSlotStableId": 2081885851
+                            }
+                        }
+                    ],
+                    "materialSlotsByLod": [
+                        [
+                            {
+                                "id": {
+                                    "lodIndex": 0,
+                                    "materialSlotStableId": 3100309799
+                                }
+                            },
+                            {
+                                "id": {
+                                    "lodIndex": 0,
+                                    "materialSlotStableId": 2081885851
+                                }
+                            }
+                        ]
+                    ]
+                },
+                "Component_[5520072886367367233]": {
+                    "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
+                    "Id": 5520072886367367233,
+                    "Parent Entity": "ContainerEntity",
+                    "Transform Data": {
+                        "Translate": [
+                            -0.010384082794189453,
+                            0.053127288818359375,
+                            0.0
+                        ],
+                        "Rotate": [
+                            0.0,
+                            0.0,
+                            2.7440390586853027
+                        ]
+                    }
+                },
+                "Component_[79304917136191754]": {
+                    "$type": "AZ::Render::EditorMeshComponent",
+                    "Id": 79304917136191754,
+                    "Controller": {
+                        "Configuration": {
+                            "ModelAsset": {
+                                "assetId": {
+                                    "guid": "{2EC0817C-8B45-5917-BEF1-2A6A0FB83DA8}",
+                                    "subId": 282215715
+                                },
+                                "assetHint": "joshuas-assets/gamejam2021/tombstone.azmodel"
+                            }
+                        }
+                    }
+                },
+                "Component_[7975344952023062314]": {
+                    "$type": "SelectionComponent",
+                    "Id": 7975344952023062314
+                }
+            }
+        },
+        "Entity_[695472382244]": {
+            "Id": "Entity_[695472382244]",
+            "Name": "tombstone",
+            "Components": {
+                "Component_[11439766118124213058]": {
+                    "$type": "EditorPendingCompositionComponent",
+                    "Id": 11439766118124213058
+                },
+                "Component_[11496240410140401081]": {
+                    "$type": "EditorInspectorComponent",
+                    "Id": 11496240410140401081,
+                    "ComponentOrderEntryArray": [
+                        {
+                            "ComponentId": 5520072886367367233
+                        },
+                        {
+                            "ComponentId": 79304917136191754,
+                            "SortIndex": 1
+                        }
+                    ]
+                },
+                "Component_[11537572143063657162]": {
+                    "$type": "EditorEntityIconComponent",
+                    "Id": 11537572143063657162
+                },
+                "Component_[13106944269288224823]": {
+                    "$type": "EditorLockComponent",
+                    "Id": 13106944269288224823
+                },
+                "Component_[14451224097875111655]": {
+                    "$type": "EditorVisibilityComponent",
+                    "Id": 14451224097875111655
+                },
+                "Component_[14668592554343609448]": {
+                    "$type": "EditorDisabledCompositionComponent",
+                    "Id": 14668592554343609448
+                },
+                "Component_[1855604147108003701]": {
+                    "$type": "EditorEntitySortComponent",
+                    "Id": 1855604147108003701
+                },
+                "Component_[4095478752396704516]": {
+                    "$type": "EditorOnlyEntityComponent",
+                    "Id": 4095478752396704516
+                },
+                "Component_[5520072886367367233]": {
+                    "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
+                    "Id": 5520072886367367233,
+                    "Parent Entity": "ContainerEntity",
+                    "Transform Data": {
+                        "Translate": [
+                            0.45844316482543945,
+                            0.14742565155029297,
+                            -0.003206402063369751
+                        ],
+                        "Rotate": [
+                            0.0,
+                            0.0,
+                            47.52707290649414
+                        ]
+                    }
+                },
+                "Component_[79304917136191754]": {
+                    "$type": "AZ::Render::EditorMeshComponent",
+                    "Id": 79304917136191754,
+                    "Controller": {
+                        "Configuration": {
+                            "ModelAsset": {
+                                "assetId": {
+                                    "guid": "{2EC0817C-8B45-5917-BEF1-2A6A0FB83DA8}",
+                                    "subId": 282215715
+                                },
+                                "assetHint": "joshuas-assets/gamejam2021/tombstone.azmodel"
+                            }
+                        }
+                    }
+                },
+                "Component_[7975344952023062314]": {
+                    "$type": "SelectionComponent",
+                    "Id": 7975344952023062314
+                }
+            }
+        },
+        "Entity_[699767349540]": {
+            "Id": "Entity_[699767349540]",
+            "Name": "tombstone",
+            "Components": {
+                "Component_[11439766118124213058]": {
+                    "$type": "EditorPendingCompositionComponent",
+                    "Id": 11439766118124213058
+                },
+                "Component_[11496240410140401081]": {
+                    "$type": "EditorInspectorComponent",
+                    "Id": 11496240410140401081,
+                    "ComponentOrderEntryArray": [
+                        {
+                            "ComponentId": 5520072886367367233
+                        },
+                        {
+                            "ComponentId": 79304917136191754,
+                            "SortIndex": 1
+                        }
+                    ]
+                },
+                "Component_[11537572143063657162]": {
+                    "$type": "EditorEntityIconComponent",
+                    "Id": 11537572143063657162
+                },
+                "Component_[13106944269288224823]": {
+                    "$type": "EditorLockComponent",
+                    "Id": 13106944269288224823
+                },
+                "Component_[14451224097875111655]": {
+                    "$type": "EditorVisibilityComponent",
+                    "Id": 14451224097875111655
+                },
+                "Component_[14668592554343609448]": {
+                    "$type": "EditorDisabledCompositionComponent",
+                    "Id": 14668592554343609448
+                },
+                "Component_[1855604147108003701]": {
+                    "$type": "EditorEntitySortComponent",
+                    "Id": 1855604147108003701
+                },
+                "Component_[4095478752396704516]": {
+                    "$type": "EditorOnlyEntityComponent",
+                    "Id": 4095478752396704516
+                },
+                "Component_[5520072886367367233]": {
+                    "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
+                    "Id": 5520072886367367233,
+                    "Parent Entity": "ContainerEntity",
+                    "Transform Data": {
+                        "Translate": [
+                            -0.48705387115478516,
+                            0.20545673370361328,
+                            0.023409932851791382
+                        ],
+                        "Rotate": [
+                            0.07234583795070648,
+                            1.6486642360687256,
+                            -17.013418197631836
+                        ]
+                    }
+                },
+                "Component_[79304917136191754]": {
+                    "$type": "AZ::Render::EditorMeshComponent",
+                    "Id": 79304917136191754,
+                    "Controller": {
+                        "Configuration": {
+                            "ModelAsset": {
+                                "assetId": {
+                                    "guid": "{2EC0817C-8B45-5917-BEF1-2A6A0FB83DA8}",
+                                    "subId": 282215715
+                                },
+                                "assetHint": "joshuas-assets/gamejam2021/tombstone.azmodel"
+                            }
+                        }
+                    }
+                },
+                "Component_[7975344952023062314]": {
+                    "$type": "SelectionComponent",
+                    "Id": 7975344952023062314
+                }
+            }
+        },
+        "Entity_[704062316836]": {
+            "Id": "Entity_[704062316836]",
+            "Name": "tombstone",
+            "Components": {
+                "Component_[11439766118124213058]": {
+                    "$type": "EditorPendingCompositionComponent",
+                    "Id": 11439766118124213058
+                },
+                "Component_[11496240410140401081]": {
+                    "$type": "EditorInspectorComponent",
+                    "Id": 11496240410140401081,
+                    "ComponentOrderEntryArray": [
+                        {
+                            "ComponentId": 5520072886367367233
+                        },
+                        {
+                            "ComponentId": 79304917136191754,
+                            "SortIndex": 1
+                        }
+                    ]
+                },
+                "Component_[11537572143063657162]": {
+                    "$type": "EditorEntityIconComponent",
+                    "Id": 11537572143063657162
+                },
+                "Component_[13106944269288224823]": {
+                    "$type": "EditorLockComponent",
+                    "Id": 13106944269288224823
+                },
+                "Component_[14451224097875111655]": {
+                    "$type": "EditorVisibilityComponent",
+                    "Id": 14451224097875111655
+                },
+                "Component_[14668592554343609448]": {
+                    "$type": "EditorDisabledCompositionComponent",
+                    "Id": 14668592554343609448
+                },
+                "Component_[1855604147108003701]": {
+                    "$type": "EditorEntitySortComponent",
+                    "Id": 1855604147108003701
+                },
+                "Component_[4095478752396704516]": {
+                    "$type": "EditorOnlyEntityComponent",
+                    "Id": 4095478752396704516
+                },
+                "Component_[5520072886367367233]": {
+                    "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
+                    "Id": 5520072886367367233,
+                    "Parent Entity": "ContainerEntity",
+                    "Transform Data": {
+                        "Translate": [
+                            -0.2945718765258789,
+                            -0.30411243438720703,
+                            -4.470348358154297e-8
+                        ],
+                        "Rotate": [
+                            0.0,
+                            0.0,
+                            13.95744800567627
+                        ]
+                    }
+                },
+                "Component_[79304917136191754]": {
+                    "$type": "AZ::Render::EditorMeshComponent",
+                    "Id": 79304917136191754,
+                    "Controller": {
+                        "Configuration": {
+                            "ModelAsset": {
+                                "assetId": {
+                                    "guid": "{2EC0817C-8B45-5917-BEF1-2A6A0FB83DA8}",
+                                    "subId": 282215715
+                                },
+                                "assetHint": "joshuas-assets/gamejam2021/tombstone.azmodel"
+                            }
+                        }
+                    }
+                },
+                "Component_[7975344952023062314]": {
+                    "$type": "SelectionComponent",
+                    "Id": 7975344952023062314
+                }
+            }
+        },
+        "Entity_[708357284132]": {
+            "Id": "Entity_[708357284132]",
+            "Name": "tombstone",
+            "Components": {
+                "Component_[11439766118124213058]": {
+                    "$type": "EditorPendingCompositionComponent",
+                    "Id": 11439766118124213058
+                },
+                "Component_[11496240410140401081]": {
+                    "$type": "EditorInspectorComponent",
+                    "Id": 11496240410140401081,
+                    "ComponentOrderEntryArray": [
+                        {
+                            "ComponentId": 5520072886367367233
+                        },
+                        {
+                            "ComponentId": 79304917136191754,
+                            "SortIndex": 1
+                        }
+                    ]
+                },
+                "Component_[11537572143063657162]": {
+                    "$type": "EditorEntityIconComponent",
+                    "Id": 11537572143063657162
+                },
+                "Component_[13106944269288224823]": {
+                    "$type": "EditorLockComponent",
+                    "Id": 13106944269288224823
+                },
+                "Component_[14451224097875111655]": {
+                    "$type": "EditorVisibilityComponent",
+                    "Id": 14451224097875111655
+                },
+                "Component_[14668592554343609448]": {
+                    "$type": "EditorDisabledCompositionComponent",
+                    "Id": 14668592554343609448
+                },
+                "Component_[1855604147108003701]": {
+                    "$type": "EditorEntitySortComponent",
+                    "Id": 1855604147108003701
+                },
+                "Component_[4095478752396704516]": {
+                    "$type": "EditorOnlyEntityComponent",
+                    "Id": 4095478752396704516
+                },
+                "Component_[5520072886367367233]": {
+                    "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
+                    "Id": 5520072886367367233,
+                    "Parent Entity": "ContainerEntity",
+                    "Transform Data": {
+                        "Translate": [
+                            0.38098907470703125,
+                            -0.2540168762207031,
+                            -0.02100507915019989
+                        ],
+                        "Rotate": [
+                            0.0,
+                            0.0,
+                            36.374961853027344
+                        ]
+                    }
+                },
+                "Component_[79304917136191754]": {
+                    "$type": "AZ::Render::EditorMeshComponent",
+                    "Id": 79304917136191754,
+                    "Controller": {
+                        "Configuration": {
+                            "ModelAsset": {
+                                "assetId": {
+                                    "guid": "{2EC0817C-8B45-5917-BEF1-2A6A0FB83DA8}",
+                                    "subId": 282215715
+                                },
+                                "assetHint": "joshuas-assets/gamejam2021/tombstone.azmodel"
+                            }
+                        }
+                    }
+                },
+                "Component_[7975344952023062314]": {
+                    "$type": "SelectionComponent",
+                    "Id": 7975344952023062314
+                }
+            }
+        },
+        "Entity_[712652251428]": {
+            "Id": "Entity_[712652251428]",
+            "Name": "tombstone",
+            "Components": {
+                "Component_[11439766118124213058]": {
+                    "$type": "EditorPendingCompositionComponent",
+                    "Id": 11439766118124213058
+                },
+                "Component_[11496240410140401081]": {
+                    "$type": "EditorInspectorComponent",
+                    "Id": 11496240410140401081,
+                    "ComponentOrderEntryArray": [
+                        {
+                            "ComponentId": 5520072886367367233
+                        },
+                        {
+                            "ComponentId": 79304917136191754,
+                            "SortIndex": 1
+                        }
+                    ]
+                },
+                "Component_[11537572143063657162]": {
+                    "$type": "EditorEntityIconComponent",
+                    "Id": 11537572143063657162
+                },
+                "Component_[13106944269288224823]": {
+                    "$type": "EditorLockComponent",
+                    "Id": 13106944269288224823
+                },
+                "Component_[14451224097875111655]": {
+                    "$type": "EditorVisibilityComponent",
+                    "Id": 14451224097875111655
+                },
+                "Component_[14668592554343609448]": {
+                    "$type": "EditorDisabledCompositionComponent",
+                    "Id": 14668592554343609448
+                },
+                "Component_[1855604147108003701]": {
+                    "$type": "EditorEntitySortComponent",
+                    "Id": 1855604147108003701
+                },
+                "Component_[4095478752396704516]": {
+                    "$type": "EditorOnlyEntityComponent",
+                    "Id": 4095478752396704516
+                },
+                "Component_[5520072886367367233]": {
+                    "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
+                    "Id": 5520072886367367233,
+                    "Parent Entity": "ContainerEntity",
+                    "Transform Data": {
+                        "Translate": [
+                            0.4699406623840332,
+                            0.610142707824707,
+                            0.030717819929122925
+                        ],
+                        "Rotate": [
+                            2.6384952068328857,
+                            2.002471923828125,
+                            68.52397918701172
+                        ],
+                        "UniformScale": 0.7732922434806824
+                    }
+                },
+                "Component_[79304917136191754]": {
+                    "$type": "AZ::Render::EditorMeshComponent",
+                    "Id": 79304917136191754,
+                    "Controller": {
+                        "Configuration": {
+                            "ModelAsset": {
+                                "assetId": {
+                                    "guid": "{2EC0817C-8B45-5917-BEF1-2A6A0FB83DA8}",
+                                    "subId": 282215715
+                                },
+                                "assetHint": "joshuas-assets/gamejam2021/tombstone.azmodel"
+                            }
+                        }
+                    }
+                },
+                "Component_[7975344952023062314]": {
+                    "$type": "SelectionComponent",
+                    "Id": 7975344952023062314
+                }
+            }
+        }
+    }
+}

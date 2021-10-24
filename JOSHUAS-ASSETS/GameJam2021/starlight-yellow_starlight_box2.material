@@ -1,0 +1,35 @@
+{
+    "description": "",
+    "materialType": "Materials/Types/StandardPBR.materialtype",
+    "parentMaterial": "",
+    "propertyLayoutVersion": 3,
+    "properties": {
+        "baseColor": {
+            "color": [
+                1.0,
+                0.8207980394363403,
+                0.0,
+                1.0
+            ]
+        },
+        "clearCoat": {
+            "enable": true
+        },
+        "emissive": {
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ]
+        },
+        "metallic": {
+            "factor": 1.0
+        },
+        "opacity": {
+            "alphaAffectsSpecular": 0.28999999165534975,
+            "doubleSided": true,
+            "factor": 1.0
+        }
+    }
+}

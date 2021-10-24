@@ -1,0 +1,17 @@
+{
+    "project_name": "GameJam2021",
+    "origin": "The primary repo for GameJam2021 goes here: i.e. http://www.mydomain.com",
+    "license": "What license GameJam2021 uses goes here: i.e. https://opensource.org/licenses/MIT",
+    "display_name": "GameJam2021",
+    "summary": "A short description of GameJam2021.",
+    "canonical_tags": [
+        "Project"
+    ],
+    "user_tags": [
+        "GameJam2021"
+    ],
+    "icon_path": "preview.png",
+    "engine": "o3de",
+    "external_subdirectories": [],
+    "restricted_name": "projects"
+}

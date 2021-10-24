@@ -1,0 +1,30 @@
+{
+    "description": "",
+    "materialType": "Materials/Types/StandardPBR.materialtype",
+    "parentMaterial": "",
+    "propertyLayoutVersion": 3,
+    "properties": {
+        "baseColor": {
+            "textureMap": "JOSHUAS-ASSETS/GameJam2021/textures/BigX.png"
+        },
+        "emissive": {
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ]
+        },
+        "opacity": {
+            "alphaAffectsSpecular": 1.0,
+            "factor": 0.699999988079071,
+            "mode": "Blended"
+        },
+        "uv": {
+            "center": [
+                -2.5,
+                0.5
+            ]
+        }
+    }
+}
