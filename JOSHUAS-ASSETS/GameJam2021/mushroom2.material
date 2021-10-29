@@ -8,7 +8,7 @@
             "color": [
                 1.0,
                 0.8758373260498047,
-                0.08336003869771958,
+                0.08336003869771957,
                 1.0
             ],
             "textureBlendMode": "LinearLight",
@@ -24,6 +24,9 @@
         },
         "opacity": {
             "factor": 1.0
+        },
+        "specularF0": {
+            "factor": 0.0
         }
     }
 }

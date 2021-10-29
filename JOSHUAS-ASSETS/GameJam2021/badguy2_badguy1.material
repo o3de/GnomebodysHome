@@ -11,8 +11,12 @@
                 0.800000011920929,
                 1.0
             ],
-            "textureBlendMode": "Overlay",
+            "textureBlendMode": "Lerp",
             "textureMap": "JOSHUAS-ASSETS/GameJam2021/textures/badguy_U1.png"
+        },
+        "clearCoat": {
+            "enable": true,
+            "factor": 0.3700000047683716
         },
         "emissive": {
             "color": [
