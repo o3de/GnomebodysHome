@@ -131,9 +131,81 @@
                             "id": {
                                 "materialSlotStableId": 2081885851
                             }
+                        },
+                        {
+                            "id": {
+                                "materialSlotStableId": 3100309799
+                            }
+                        },
+                        {
+                            "id": {
+                                "materialSlotStableId": 2081885851
+                            }
+                        },
+                        {
+                            "id": {
+                                "materialSlotStableId": 3100309799
+                            }
+                        },
+                        {
+                            "id": {
+                                "materialSlotStableId": 2081885851
+                            }
+                        },
+                        {
+                            "id": {
+                                "materialSlotStableId": 3100309799
+                            }
+                        },
+                        {
+                            "id": {
+                                "materialSlotStableId": 2081885851
+                            }
                         }
                     ],
                     "materialSlotsByLod": [
+                        [
+                            {
+                                "id": {
+                                    "lodIndex": 0,
+                                    "materialSlotStableId": 3100309799
+                                }
+                            },
+                            {
+                                "id": {
+                                    "lodIndex": 0,
+                                    "materialSlotStableId": 2081885851
+                                }
+                            }
+                        ],
+                        [
+                            {
+                                "id": {
+                                    "lodIndex": 0,
+                                    "materialSlotStableId": 3100309799
+                                }
+                            },
+                            {
+                                "id": {
+                                    "lodIndex": 0,
+                                    "materialSlotStableId": 2081885851
+                                }
+                            }
+                        ],
+                        [
+                            {
+                                "id": {
+                                    "lodIndex": 0,
+                                    "materialSlotStableId": 3100309799
+                                }
+                            },
+                            {
+                                "id": {
+                                    "lodIndex": 0,
+                                    "materialSlotStableId": 2081885851
+                                }
+                            }
+                        ],
                         [
                             {
                                 "id": {
