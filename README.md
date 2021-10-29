@@ -22,14 +22,15 @@ The UX workflow I was focusing on was around asset importing and assets manipula
 
 ![ResourceIMG0140](https://user-images.githubusercontent.com/82551958/138385372-40e0b855-0c3a-45e9-b71f-4d03f4f57dd6.jpg)
 
-![ResourceIMG0142](https://user-images.githubusercontent.com/82551958/138385154-5b6a0557-b84a-45af-80b2-2f8c314518ac.jpg)
+![sparky](https://user-images.githubusercontent.com/62353586/139504875-5322c9ec-eabd-4b3b-a83f-202c8bb1b741.jpg)
+
+![sparky2](https://user-images.githubusercontent.com/62353586/139504897-ce96f9f7-64e3-40c6-b1c8-39cef79ce319.jpg)
 
 ![ResourceIMG0145](https://user-images.githubusercontent.com/82551958/138385614-0feff6dc-f2ca-4014-bbda-f0fb17497d62.jpg)
 
 ![ResourceIMG0134](https://user-images.githubusercontent.com/82551958/138385250-18c199d3-660d-4bd2-b7f9-43095e58ea38.jpg)
 
-https://user-images.githubusercontent.com/82551958/138385979-7d0ace6d-ec90-4dcc-8378-e1e07bc8ea1b.mp4
-
+https://user-images.githubusercontent.com/62353586/139504735-660aff2c-ae77-4c72-a996-38f4043fba5a.mp4
 
 ## License
 
