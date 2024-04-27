@@ -6,7 +6,7 @@
 
 These gnomes have come into our world and stolen all our gold. They thought they could hide it where no one would ever find it. But we've found their home. Will you help us sneak into their world and get our gold back? You have to be careful though, these gnomes are clever and left traps for you everywhere. They also don't appear to be gone for long, so be back before the time runs out because at this point, Gnome-bodys home.
 
-*The does not have interaction besides camera movements for now*
+*This project does not have interaction besides camera movements for now*
 
 ## Prerequisites
 
