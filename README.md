@@ -1,3 +1,5 @@
+<u>Supported o3de versions</u> : **23.10**
+
 ## Gnomebody's Home (By Joshua Rainbolt)
 
 ![gameplay](overview.gif?raw=true)
