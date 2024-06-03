@@ -1,20 +1,39 @@
-## O3DE Gamejam Project - Gnomebody's Home
-### By Joshua Rainbolt
+<u>Supported o3de versions</u> : **23.10**
 
-#### Overview
-Gnomebodys home is a O3DE game jam project that I created to test the user experience of O3DE. As a UX designer at Amazon we believe in the concept of dogfooding. To put ourselves in our customers place and see how we feel. This ability to understand how our customers experience our software is important part of making great software. It's kind of like method acting, except a little less concerning as a spectator. As UX designers, we spend a lot of time talking to customers, however the ability to actually feel their pain points really changes our perception of the experience. It helps locate those repetitive behaviors or pesky notifications that customers report as annyoying. So the O3DE UX team does just that. For one week annually, we take our product and try to make something fun we can share with the community even if the outcome is a bit corky and playful. We spend our time trying to make a new game but our true outcome is the tickets or bugs that we find with our difficult experiences. We then log all the amazing issues and cross compaire them against our customer findings so we can see the overlap. 
+# Gnomebody's Home (By Joshua Rainbolt)
 
-What is left over is some amazing content that we hope the community finds fun, entertaining, and reusable for their own products. I'm looking forward to what you guys use it for. Many thanks and Enjoy!
+![gameplay](overview.gif?raw=true)
 
-#### Game Premise
+These gnomes have come into our world and stolen all our gold. They thought they could hide it where no one would ever find it. But we've found their home. Will you help us sneak into their world and get our gold back? You have to be careful though, these gnomes are clever and left traps for you everywhere. They also don't appear to be gone for long, so be back before the time runs out because at this point, Gnome-bodys home.
 
-These gnomes have come into our world and stolen all our gold. They thought they could hide it where no one would ever find it. But we've found their home. Will you help us sneak into their world and get our gold back? You have to be careful though, these gnomes are clevar and left traps for you everywhere. They also don't appear to be gone for long, so be back before the time runs out because at this point, Gnome-bodys home.
+*This project does not have interaction besides camera movements for now*
 
+## Prerequisites
 
-#### Whats included in the Project.
-The UX workflow I was focusing on was around asset importing and assets manipulation Pipeline. With the new addition of Atom render we wanted to test out how these new workflow would effect our users. What the O3DE UX group would call the week one experience.  I focused on the level designer and asset creation workflow. So this project has 40+ assets I created in Maya, Photoshop, Illustrator. This world doesn't include any game logic or ScriptCanvas. I've removed all the prefab containers I was testing with to keep it simple.
+You need to build or [install O3DE engine](https://o3de.org/download/).
+
+You need to [install git with lfs support](https://git-scm.com/downloads), and [setup a token on your github account](https://www.docs.o3de.org/docs/welcome-guide/setup/setup-from-github/#configure-credentials-for-git-lfs). Needed as the repository uses Git LFS, the "Download ZIP" button will not download assets.
+
+## How to run
+
+1. Clone the github repository (`git clone https://github.com/o3de/GnomebodysHome.git`). When prompted to authenticate, use your github username and the token as password.
+2. Launch O3DE. It will open the Project manager. Click on the **New Project** button then **Open Existing Project** option.
+3. Navigate to the cloned repository. Open the folder. The project should now be registered.
 
 ![GnomeLogo](https://user-images.githubusercontent.com/82551958/138384854-6098fb16-53bb-4b14-b880-0a2ce610e8e3.png)
+
+4. Click on the **Build Project** button, located on the **GameJam2021** image.
+5. Once the project has been built successfully, use the **Open Editor** button.
+6. The asset pre-processor will run for a bit. Once it is over you will be welcomed with the **Open a Level** window. Pick the first one.
+
+## Project Highlights
+
+https://user-images.githubusercontent.com/62353586/139504735-660aff2c-ae77-4c72-a996-38f4043fba5a.mp4
+
+- **40+ custom assets**, containing terrains, vegetation, materials and gnomes
+- **Script playground**, the game idea is there but scripting needs to be added, maybe you can be up to it ?
+
+### Screenshots
 
 ![ResourceIMG0148](https://user-images.githubusercontent.com/82551958/138385024-e87c972c-9799-4f8d-96cf-8d3bc16a3154.jpg)
 
@@ -29,8 +48,6 @@ The UX workflow I was focusing on was around asset importing and assets manipula
 ![ResourceIMG0145](https://user-images.githubusercontent.com/82551958/138385614-0feff6dc-f2ca-4014-bbda-f0fb17497d62.jpg)
 
 ![ResourceIMG0134](https://user-images.githubusercontent.com/82551958/138385250-18c199d3-660d-4bd2-b7f9-43095e58ea38.jpg)
-
-https://user-images.githubusercontent.com/62353586/139504735-660aff2c-ae77-4c72-a996-38f4043fba5a.mp4
 
 ## License
 

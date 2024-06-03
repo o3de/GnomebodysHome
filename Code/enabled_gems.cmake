@@ -1,6 +1,5 @@
 
 set(ENABLED_GEMS
-    GameJam2021
     Atom
     AudioSystem
     AWSCore
