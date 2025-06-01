@@ -22,9 +22,8 @@ You need to [install git with lfs support](https://git-scm.com/downloads), and [
 
 ![GnomeLogo](https://user-images.githubusercontent.com/82551958/138384854-6098fb16-53bb-4b14-b880-0a2ce610e8e3.png)
 
-4. Click on the **Build Project** button, located on the **GameJam2021** image.
-5. Once the project has been built successfully, use the **Open Editor** button.
-6. The asset pre-processor will run for a bit. Once it is over you will be welcomed with the **Open a Level** window. Pick the first one.
+4. Click on the **Open Editor** button.
+5. The asset pre-processor will run for a bit. Once it is over you will be welcomed with the **Open a Level** window. Pick the first one.
 
 ## Project Highlights
 
