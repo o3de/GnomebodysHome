@@ -1,19 +1,44 @@
 {
-    "project_name": "GameJam2021",
-    "origin": "The primary repo for GameJam2021 goes here: i.e. http://www.mydomain.com",
-    "license": "What license GameJam2021 uses goes here: i.e. https://opensource.org/licenses/MIT",
-    "display_name": "GameJam2021",
-    "summary": "A short description of GameJam2021.",
+    "project_name": "GnomebodysHome",
+    "version": "1.0.0",
+    "project_id": "{3392BAF0-352A-4E25-825B-DE7F8AFAA3C7}",
+    "origin": "The primary repo for GnomebodysHome goes here: i.e. http://www.mydomain.com",
+    "license": "What license GnomebodysHome uses goes here: i.e. https://opensource.org/licenses/Apache-2.0 Or https://opensource.org/licenses/MIT etc.",
+    "display_name": "GnomebodysHome",
+    "summary": "A short description of GnomebodysHome.",
+    "script_only": true,
     "canonical_tags": [
         "Project"
     ],
     "user_tags": [
-        "GameJam2021"
+        "GnomebodysHome"
     ],
     "icon_path": "preview.png",
     "engine": "o3de",
-    "external_subdirectories": [],
-    "restricted_name": "projects",
-    "project_id": "{873840b2-e16d-4e10-9ca8-7382b1ac1a77}",
-    "engine_version": "2.2.2"
+    "restricted": "GnomebodysHome",
+    "gem_names": [
+        "Atom",
+        "AudioSystem",
+        "CameraFramework",
+        "Compression",
+        "DebugDraw",
+        "DiffuseProbeGrid",
+        "EditorPythonBindings",
+        "EMotionFX",
+        "GameState",
+        "ImGui",
+        "LandscapeCanvas",
+        "LyShine",
+        "PhysX",
+        "PrimitiveAssets",
+        "PrefabBuilder",
+        "SaveData",
+        "ScriptCanvasPhysics",
+        "ScriptEvents",
+        "StartingPointInput",
+        "TextureAtlas",
+        "WhiteBox",
+        "RemoteTools"
+    ],
+    "engine_version": "4.2.0"
 }
