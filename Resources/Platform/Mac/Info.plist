@@ -5,11 +5,11 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<false/>
 	<key>CFBundleDisplayName</key>
-	<string>GameJam2021</string>
+	<string>GnomebodysHome</string>
 	<key>CFBundleExecutable</key>
-	<string>GameJam2021.GameLauncher</string>
+	<string>GnomebodysHome.GameLauncher</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.amazon.GameJam2021</string>
+	<string>com.amazon.GnomebodysHome</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>

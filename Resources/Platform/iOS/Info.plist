@@ -5,15 +5,15 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
-	<string>GameJam2021</string>
+	<string>GnomebodysHome</string>
 	<key>CFBundleExecutable</key>
-	<string>GameJam2021.GameLauncher</string>
+	<string>GnomebodysHome.GameLauncher</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.amazon.lumberyard.GameJam2021</string>
+	<string>com.amazon.lumberyard.GnomebodysHome</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
-	<string>GameJam2021</string>
+	<string>GnomebodysHome</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
